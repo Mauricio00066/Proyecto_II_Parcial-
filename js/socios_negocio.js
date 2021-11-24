@@ -1,8 +1,8 @@
-var urlget_socios_negocio = 'https://localhost/G3_20/controler/socios_negocio.php?op=get_socios_negocio';
-var urlpost_socios_negocio = 'https://localhost/G3_20/controler/socios_negocio.php?op=insert_socio_negocio';
-var urlget_socio_negocio = 'https://localhost/G3_20/controler/socios_negocio.php?op=get_socio_negocio';
-var urlput_socio_negocio = 'https://localhost/G3_20/controler/socios_negocio.php?op=update_socio_negocio';
-var urldelete_socio_negocio = 'https://localhost/G3_20/controler/socios_negocio.php?op=delete_socio_negocio';
+var urlget_socios_negocio = 'https://localhost/G3.20-/Socios_negocio/controller/socios_negocio.php?op=get_socios_negocio';
+var urlpost_socios_negocio = 'https://localhost/G3.20-/Socios_negocio/controller/socios_negocio.php?op=insert_socio_negocio';
+var urlget_socio_negocio = 'https://localhost/G3.20-/Socios_negocio/controller/socios_negocio.php?op=get_socio_negocio';
+var urlput_socio_negocio = 'https://localhost/G3.20-/Socios_negocio/controller/socios_negocio.php?op=update_socio_negocio';
+var urldelete_socio_negocio = 'https://localhost/G3.20-/Socios_negocio/controller/socios_negocio.php?op=delete_socio_negocio';
 
 $(document).ready(function () {
     cargarSocios_negocio();
